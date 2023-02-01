@@ -70,3 +70,4 @@ if 'y' in 답변:
 else:
     exit()
 #저장 및 모아서 출력 기능 추가
+#test
